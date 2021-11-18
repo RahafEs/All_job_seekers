@@ -1,4 +1,4 @@
-# All_job_seekers
+# EDA_hotel_bookings
 
 
 <h1> MVP Goal </h1>
